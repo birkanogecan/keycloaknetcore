@@ -1,0 +1,11 @@
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\bin\Debug\netcoreapp2.0\KeyCloakCoreExample.deps.json
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\bin\Debug\netcoreapp2.0\KeyCloakCoreExample.runtimeconfig.json
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\bin\Debug\netcoreapp2.0\KeyCloakCoreExample.runtimeconfig.dev.json
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\bin\Debug\netcoreapp2.0\KeyCloakCoreExample.dll
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\obj\Debug\netcoreapp2.0\KeyCloakCoreExample.csprojResolveAssemblyReference.cache
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\obj\Debug\netcoreapp2.0\KeyCloakCoreExample.csproj.CoreCompileInputs.cache
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\obj\Debug\netcoreapp2.0\KeyCloakCoreExample.AssemblyInfoInputs.cache
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\obj\Debug\netcoreapp2.0\KeyCloakCoreExample.AssemblyInfo.cs
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\bin\Debug\netcoreapp2.0\KeyCloakCoreExample.pdb
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\obj\Debug\netcoreapp2.0\KeyCloakCoreExample.dll
+c:\users\birkan\documents\visual studio 2017\Projects\KeyCloakCoreExample\KeyCloakCoreExample\obj\Debug\netcoreapp2.0\KeyCloakCoreExample.pdb
